@@ -1,0 +1,25 @@
+{
+  "short_name": "Bazam Bazi panel",
+  "name": "Bazam Bazi panel",
+  "icons": [
+    {
+      "src": "f5f66b6b956b4dbbf607764cab638298.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_120x120.950a5e7bcd8ac3dd33431a76b979d5f4.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "icon_152x152.760ecf27972057515862e5312fe361de.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

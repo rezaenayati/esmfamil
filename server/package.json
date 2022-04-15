@@ -1,0 +1,15 @@
+{
+	"name": "server-esmfamil",
+	"version": "0.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"start": "node index.js"
+	},
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"ioredis": "^5.0.4",
+		"socket.io": "^4.4.1"
+	}
+}
